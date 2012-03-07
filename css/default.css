@@ -1,0 +1,24 @@
+body 
+{
+	font-family: Verdana;
+	font-size: 15px;
+	color: black;
+	margin: 10px;
+	padding: 0;
+	background: #333;
+}
+
+form, h1, h2, h3, h4, input
+{
+		padding:0;
+		margin:0;
+}
+
+canvas
+{
+	border:solid 7px #000000;
+	-moz-border-radius: 26px;
+	-webkit-border-radius: 26px;
+	border-radius: 26px;
+	background: #666;
+}
